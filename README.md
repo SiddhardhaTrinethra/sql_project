@@ -38,8 +38,5 @@ GROUP BY emp_id;
 ## Tech Stack
 
 * **Database**: MySQL 8+
-* **Optional**: Power BI or Python for visualization
 
-## Author
 
-<Your Name> — SQL & Data Analytics Enthusiast
